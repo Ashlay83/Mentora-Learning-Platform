@@ -1,4 +1,4 @@
-🧠 Mentora – AI Question Paper Generator
+<h1>🧠 Mentora – AI Question Paper Generator</h1>
 
 A Flutter-based app for generating question papers using AI.
 
@@ -26,9 +26,8 @@ Just enter the topic/syllabus → choose difficulty → and get a complete quest
 🌙 Dark/Light Mode (if included)
 
 📱 Tech Stack
-Part	Technology
-Framework	Flutter (Dart)
-State Management	Riverpod
-Backend	Firebase  / FastAPI
-AI	OpenAI / Gemini / Llama API
-PDF Export	pdf Flutter package
+
+Framework:	         Flutter (Dart)
+State Managemen:     Riverpod 
+Backend:           	 Firebase / FastAPI 
+AI:	                 Gemini 
