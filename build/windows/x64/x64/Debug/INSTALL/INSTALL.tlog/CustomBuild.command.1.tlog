@@ -1,0 +1,10 @@
+^D:\MINIPROJECT\80%\MENTORA\MENTORA\BUILD\WINDOWS\X64\CMAKEFILES\DC32B781957A0E7210A62D38EFE394BD\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

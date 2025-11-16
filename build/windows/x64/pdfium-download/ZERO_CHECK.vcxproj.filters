@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\miniproject\80%\Mentora\mentora\build\windows\x64\pdfium-download\CMakeFiles\e38a4145cddd0d7f5d901f31e90e6f78\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8DCCC530-386E-3A92-9285-E9070CA3BF86}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

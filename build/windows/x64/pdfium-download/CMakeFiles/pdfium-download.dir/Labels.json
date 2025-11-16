@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/miniproject/80%/Mentora/mentora/build/windows/x64/pdfium-download/CMakeFiles/pdfium-download"
+		},
+		{
+			"file" : "D:/miniproject/80%/Mentora/mentora/build/windows/x64/pdfium-download/CMakeFiles/e38a4145cddd0d7f5d901f31e90e6f78/pdfium-download.rule"
+		},
+		{
+			"file" : "D:/miniproject/80%/Mentora/mentora/build/windows/x64/pdfium-download/CMakeFiles/2c9f02e3586ac78d2a175f62638edc18/pdfium-download-complete.rule"
+		},
+		{
+			"file" : "D:/miniproject/80%/Mentora/mentora/build/windows/x64/pdfium-download/CMakeFiles/a6a8dd9ed6e16c14b413bc12154449db/pdfium-download-build.rule"
+		},
+		{
+			"file" : "D:/miniproject/80%/Mentora/mentora/build/windows/x64/pdfium-download/CMakeFiles/a6a8dd9ed6e16c14b413bc12154449db/pdfium-download-configure.rule"
+		},
+		{
+			"file" : "D:/miniproject/80%/Mentora/mentora/build/windows/x64/pdfium-download/CMakeFiles/a6a8dd9ed6e16c14b413bc12154449db/pdfium-download-download.rule"
+		},
+		{
+			"file" : "D:/miniproject/80%/Mentora/mentora/build/windows/x64/pdfium-download/CMakeFiles/a6a8dd9ed6e16c14b413bc12154449db/pdfium-download-install.rule"
+		},
+		{
+			"file" : "D:/miniproject/80%/Mentora/mentora/build/windows/x64/pdfium-download/CMakeFiles/a6a8dd9ed6e16c14b413bc12154449db/pdfium-download-mkdir.rule"
+		},
+		{
+			"file" : "D:/miniproject/80%/Mentora/mentora/build/windows/x64/pdfium-download/CMakeFiles/a6a8dd9ed6e16c14b413bc12154449db/pdfium-download-patch.rule"
+		},
+		{
+			"file" : "D:/miniproject/80%/Mentora/mentora/build/windows/x64/pdfium-download/CMakeFiles/a6a8dd9ed6e16c14b413bc12154449db/pdfium-download-test.rule"
+		},
+		{
+			"file" : "D:/miniproject/80%/Mentora/mentora/build/windows/x64/pdfium-download/CMakeFiles/a6a8dd9ed6e16c14b413bc12154449db/pdfium-download-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"pdfium-download"
+		],
+		"name" : "pdfium-download"
+	}
+}

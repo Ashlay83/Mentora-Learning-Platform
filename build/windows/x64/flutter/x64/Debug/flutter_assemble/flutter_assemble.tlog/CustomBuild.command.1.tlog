@@ -1,0 +1,28 @@
+^D:\MINIPROJECT\80%\MENTORA\MENTORA\BUILD\WINDOWS\X64\CMAKEFILES\B04471A809B3585800C948FA7EA461DB\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=D:\Flutter\flutter PROJECT_DIR=D:\miniproject\80%%\Mentora\mentora FLUTTER_ROOT=D:\Flutter\flutter FLUTTER_EPHEMERAL_DIR=D:\miniproject\80%%\Mentora\mentora\windows\flutter\ephemeral PROJECT_DIR=D:\miniproject\80%%\Mentora\mentora FLUTTER_TARGET=D:\miniproject\80%%\Mentora\mentora\lib\main.dart DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=D:\miniproject\80%%\Mentora\mentora\.dart_tool\package_config.json D:/Flutter/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\MINIPROJECT\80%\MENTORA\MENTORA\BUILD\WINDOWS\X64\CMAKEFILES\C1CE793A5765649C147ADF8AC6B5D4A2\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\MINIPROJECT\80%\MENTORA\MENTORA\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/miniproject/80%%/Mentora/mentora/windows -BD:/miniproject/80%%/Mentora/mentora/build/windows/x64 --check-stamp-file D:/miniproject/80%%/Mentora/mentora/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

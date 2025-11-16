@@ -1,0 +1,14 @@
+# Target labels
+ pdfium-download
+# Source files and their labels
+D:/miniproject/80%/Mentora/mentora/build/windows/x64/pdfium-download/CMakeFiles/pdfium-download
+D:/miniproject/80%/Mentora/mentora/build/windows/x64/pdfium-download/CMakeFiles/e38a4145cddd0d7f5d901f31e90e6f78/pdfium-download.rule
+D:/miniproject/80%/Mentora/mentora/build/windows/x64/pdfium-download/CMakeFiles/2c9f02e3586ac78d2a175f62638edc18/pdfium-download-complete.rule
+D:/miniproject/80%/Mentora/mentora/build/windows/x64/pdfium-download/CMakeFiles/a6a8dd9ed6e16c14b413bc12154449db/pdfium-download-build.rule
+D:/miniproject/80%/Mentora/mentora/build/windows/x64/pdfium-download/CMakeFiles/a6a8dd9ed6e16c14b413bc12154449db/pdfium-download-configure.rule
+D:/miniproject/80%/Mentora/mentora/build/windows/x64/pdfium-download/CMakeFiles/a6a8dd9ed6e16c14b413bc12154449db/pdfium-download-download.rule
+D:/miniproject/80%/Mentora/mentora/build/windows/x64/pdfium-download/CMakeFiles/a6a8dd9ed6e16c14b413bc12154449db/pdfium-download-install.rule
+D:/miniproject/80%/Mentora/mentora/build/windows/x64/pdfium-download/CMakeFiles/a6a8dd9ed6e16c14b413bc12154449db/pdfium-download-mkdir.rule
+D:/miniproject/80%/Mentora/mentora/build/windows/x64/pdfium-download/CMakeFiles/a6a8dd9ed6e16c14b413bc12154449db/pdfium-download-patch.rule
+D:/miniproject/80%/Mentora/mentora/build/windows/x64/pdfium-download/CMakeFiles/a6a8dd9ed6e16c14b413bc12154449db/pdfium-download-test.rule
+D:/miniproject/80%/Mentora/mentora/build/windows/x64/pdfium-download/CMakeFiles/a6a8dd9ed6e16c14b413bc12154449db/pdfium-download-update.rule

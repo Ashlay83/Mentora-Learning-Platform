@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\miniproject\80%\Mentora\mentora\build\windows\x64\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\miniproject\80%\Mentora\mentora\build\windows\x64\flutter\x64\Debug\flutter_assemble</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\miniproject\80%\Mentora\mentora\build\windows\x64\plugins\syncfusion_pdfviewer_windows\Debug\syncfusion_pdfviewer_windows_plugin.dll</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
